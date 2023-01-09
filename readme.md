@@ -1,5 +1,5 @@
 # Robotic Arm Motion Simulator
-MATLAB code to simulate the basic functions of robotic arm of three planar links (RRR).
+MATLAB code to simulate the basic functions of three-links planar robotic arm (RRR).
 
 ## Overview
 This code is written to simulates the basic RRR-robot functions like DKPM, IKPM, arm motion and also plots the working area of the robot. This was a task in "Intro to Robotics" course in Cairo University, Computer Engineering Department.
