@@ -6,7 +6,7 @@ This code is written to simulates the basic RRR-robot functions like DKPM, IKPM,
 
 ## How it works 
 1. Download files on yor local machine.
-2. Run "Main_Menu.m" file, **MATLAB 2019 or higher is preferred.**
+2. Run "Main.m" file, **MATLAB 2019 or higher is preferred.**
 3. A menu will appear to choose which function to simulate. \
 <img src="https://iili.io/H7EgUwF.png" width="600px"/>
 
