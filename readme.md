@@ -17,7 +17,7 @@ This code is written to simulates the basic RRR-robot functions like DKPM, IKPM,
 <img src="https://iili.io/H7Ey4ov.png" width = "600px"/> 
 
 2. Working Area Plot:
-<img src="https://iili.io/H7EbVwv.png" width="600px"/>
+<img src="https://iili.io/H7EbVwv.png" width="500px"/>
 
 ## Contributers
 - [Ahmed Fathy](https://github.com/ahmed1234552)
